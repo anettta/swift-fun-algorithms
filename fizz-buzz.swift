@@ -6,7 +6,7 @@ for num in numbers {
     if num % 3 == 0 {
         print("\(num) fizz")
     } else if num % 5 == 0 {
-        print("\(num) buzz"
+        print("\(num) buzz")
     } else {
      print(num)
     }
